@@ -49,6 +49,25 @@ namespace ExeptionHandling
              Console.ReadKey();
          }*/
         //Program to handle an exception using try-catch implementation with the generic catch
+        /* static void Main(string[] args)
+         {
+             int a, b, c;
+             Console.WriteLine("ENTER ANY TWO NUBERS");
+             try
+             {
+                 a = int.Parse(Console.ReadLine());
+                 b = int.Parse(Console.ReadLine());
+                 c = a / b;
+                 Console.WriteLine("C VALUE = " + c);
+             }
+             catch
+             {
+                 Console.WriteLine("error occured....");
+             }
+             Console.ReadKey();
+         }
+         */
+        //Program to handle an exception using try-catch implementation with the specific catch
         static void Main(string[] args)
         {
             int a, b, c;
@@ -60,13 +79,13 @@ namespace ExeptionHandling
                 c = a / b;
                 Console.WriteLine("C VALUE = " + c);
             }
-            catch
+            catch (Exception ex)
             {
-                Console.WriteLine("error occured....");
+                Console.WriteLine(ex.Message);
+                Console.WriteLine(ex.Source);
+                Console.WriteLine(ex.HelpLink);
             }
             Console.ReadKey();
         }
-
-
     }
 }
