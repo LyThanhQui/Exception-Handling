@@ -1,0 +1,11 @@
+H:\demo dotnettutorials\4. ExceptionHandling\ExeptionHandling\ExeptionHandling\obj\Debug\netcoreapp2.1\ExeptionHandling.csprojAssemblyReference.cache
+H:\demo dotnettutorials\4. ExceptionHandling\ExeptionHandling\ExeptionHandling\obj\Debug\netcoreapp2.1\ExeptionHandling.csproj.CoreCompileInputs.cache
+H:\demo dotnettutorials\4. ExceptionHandling\ExeptionHandling\ExeptionHandling\obj\Debug\netcoreapp2.1\ExeptionHandling.AssemblyInfoInputs.cache
+H:\demo dotnettutorials\4. ExceptionHandling\ExeptionHandling\ExeptionHandling\obj\Debug\netcoreapp2.1\ExeptionHandling.AssemblyInfo.cs
+H:\demo dotnettutorials\4. ExceptionHandling\ExeptionHandling\ExeptionHandling\bin\Debug\netcoreapp2.1\ExeptionHandling.deps.json
+H:\demo dotnettutorials\4. ExceptionHandling\ExeptionHandling\ExeptionHandling\bin\Debug\netcoreapp2.1\ExeptionHandling.runtimeconfig.json
+H:\demo dotnettutorials\4. ExceptionHandling\ExeptionHandling\ExeptionHandling\bin\Debug\netcoreapp2.1\ExeptionHandling.runtimeconfig.dev.json
+H:\demo dotnettutorials\4. ExceptionHandling\ExeptionHandling\ExeptionHandling\bin\Debug\netcoreapp2.1\ExeptionHandling.dll
+H:\demo dotnettutorials\4. ExceptionHandling\ExeptionHandling\ExeptionHandling\bin\Debug\netcoreapp2.1\ExeptionHandling.pdb
+H:\demo dotnettutorials\4. ExceptionHandling\ExeptionHandling\ExeptionHandling\obj\Debug\netcoreapp2.1\ExeptionHandling.dll
+H:\demo dotnettutorials\4. ExceptionHandling\ExeptionHandling\ExeptionHandling\obj\Debug\netcoreapp2.1\ExeptionHandling.pdb
